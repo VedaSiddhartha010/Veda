@@ -1,5 +1,5 @@
-# VedaSiddhartha
-# Hi 👋, I'm Vivek Dubey
+
+ Hi 👋, I'm Vivek 
 
 A second-year B.Tech student in Electronics and Communication Engineering, driven by a deep curiosity for intelligence, machines, and the universe.
 
